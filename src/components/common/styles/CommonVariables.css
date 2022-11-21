@@ -1,0 +1,13 @@
+#root{
+    --primary-box-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+    --border-white: rgb(232,232,232);
+    --primary-bg: #00838F;
+    --Putatoe-grey: #828282;
+    --primary-icons: #00838f;
+    --gray: rgba(116, 112, 112, 0.301);
+    --inactive-text: #696969;
+    --heading-text-small:#00838F;
+    --collection-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
+    --lightBackground: #C7D9D9;
+    --Heading-text:#137881;
+}

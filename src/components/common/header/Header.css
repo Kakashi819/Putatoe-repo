@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Marhey:wght@700&display=swap');
+
+.header{
+    background-color: var(--primary-bg) ;
+    justify-content: space-between;
+}
+
+.header-logo{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Marhey', cursive;
+}
+
+.header img{
+    height: 40px;
+    width: 40px;
+    margin: 10px 20px;
+}
+
+.logo-name{
+    position:relative;
+    font-size:25px;
+    padding-bottom: 0px !important;
+}
+.punch-line{
+    font-size: 10px;
+}
+
+
+.header-location-searchBar{
+    width: 60%;
+    background-color: white;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.location-icon-name{
+    align-items: center;
+    color: var(--Putatoe-grey);
+}
+
+.location-wrapper{
+    align-items: center;
+    flex: 1;
+    justify-content: space-between;
+    padding: 0 4px;
+}
+
+.location-text{
+    font-size: 15px;
+}
+
+.location-sepeartor{
+    height: 20px;
+    border: 0.5px solid black;
+    /* padding-left:; */
+    color: var(--primary-icons)
+}
+
+.searchBar-wrapper{
+    flex: 2;
+    align-items: center;
+}
+
+.profile-wrapper{
+    width: 10%;
+    color: white;
+    flex-direction: column;
+}
+
+
+/* //icons */
+.location-icon{
+    padding-right: 4px;
+    color: var(--primary-icons);
+}
+.searchIcon{
+    padding: 0px 8px;
+    color: var(--primary-icons);
+}
+.caret-down{
+    color: var(--primary-icons);
+}
+
+.header-icons{
+    width: 8%;
+    justify-content: space-between;
+    color: white;
+}
+
+.search-Input{
+    border: none;
+    outline: none;
+    width: 80%;
+}

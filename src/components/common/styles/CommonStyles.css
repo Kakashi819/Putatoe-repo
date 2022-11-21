@@ -1,0 +1,24 @@
+.d-flex{
+    display: flex;
+    align-items: center;
+}
+
+.dir-col{
+    flex-direction: column;
+}
+.absolute-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.max-width{
+    width: 80%;
+}
+.cur-po{
+    cursor: pointer;
+}
+
+.slick-next:before,
+.slick-prev:before{
+    color:var(--gray);
+}
